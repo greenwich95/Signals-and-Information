@@ -1,3 +1,5 @@
+%Plot three signals 
+
 subplot(2,2,1);
 stem(1:5,[3 6 2 4 1]);
 title('stem');
